@@ -3,7 +3,7 @@
 ## Contact information
 *  **Phone:** +998331000621
 *  **Email:** mubinaxayrullayeva2106@gmail.com
-*  [Linkedin]([https://www.linkedin.com/in/mubinabegim-xayrullayeva-042866239/](https://www.linkedin.com/feed/?midToken=AQFiXG043taXGQ&midSig=03LN1xj1a_Waw1&trk=eml-email_m2m_invite_reminder_02-header-11-home&trkEmail=eml-email_m2m_invite_reminder_02-header-11-home-null-gyv9st%7Elbk5n1th%7E6y-null-neptune%2Ffeed#:~:text=Premium%20for%20free-,Welcome%2C%20Mubina!,-Add%20a%20photo))
+*  [Linkedin][https://www.linkedin.com/in/mubinabegim-xayrullayeva-042866239/]
 
 ****
 ## Briefly about myself
@@ -11,7 +11,7 @@ I haven't worked yet. I have been interested in programming since 7th grade at s
 That’s exactly what I met in the frontend direction in 2020, and it’s very interesting to me.
 
 I am currently studying at the Pedagogical Institute in my hometown. But I don’t want to work as a math teacher at school or university.
-Unfortunately I don’t live in the capital and there are no IT centers in our city that are very good.
+Unfortunately I don’t live in the capital and there is no IT centers in our city that are very good.
 So I really want to study the frontend thoroughly and then teach other people.
 
 I want to replicate the programming language and technology I learned, and then learn more about the IT industry, especially web programming.
@@ -50,4 +50,4 @@ function noSpace(x){
 ****
 ## Languages:
   * Uzbek - Native
-  * English - A2
+  * English - A2-B1
