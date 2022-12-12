@@ -3,7 +3,7 @@
 ## Contact information
 *  **Phone:** +998331000621
 *  **Email:** mubinaxayrullayeva2106@gmail.com
-*  ![Linkedin][https://www.linkedin.com/in/mubinabegim-xayrullayeva-042866239/]
+*  ![Linkedin](https://www.linkedin.com/in/mubina-xayrullayeva-425744247/)
 
 ****
 ## Briefly about myself
