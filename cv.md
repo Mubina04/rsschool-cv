@@ -60,10 +60,15 @@ for(let i= 0; i < 8; i ++){
 ****
 ### Experience
 - *Intern at EPAM System* (May - July in 2023)
-- *Frontend developer on (giftedaccauntant.uz)[https://giftedaccountant.uz/]*
+- *Frontend developer on [giftedaccauntant.uz](https://giftedaccountant.uz/)*
 
 ### Education
-- **Andijan pedagogical institute**,
-Andijan Uzbekistan — an incomplete bachelor's degree
-September 2021 - June 2026
-Studied at Mathematics and Information technology
+- Andijan pedagogical institute
+- Nodejs & Telegram bot course on [najottalim](https://najottalim.uz/)
+- Frontend course at iCode academy
+
+
+### Languages:
+- **English:** _Intermediate B2_
+- **Uzbek:** _Native_
+- **Russian:** _Basic_
