@@ -1,12 +1,14 @@
 # Mubina Khayrullayeva
 **_Frontend developer_**
 
+****
 ### Contact
 - **Phone:** +998906248009
 - **Email:** [mubinaxayrullayeva2106@gmail.com](https://mubinaxayrullayeva2106@gmail.com)
 - **Linkedin:** [mubinabegim](https://www.linkedin.com/in/mubinabegim-xayrullayeva/)
 - **Telegram:** [@XayrullayevaM](@XayrullayevaM)
 
+****
 ### Summary
 _Experienced Junior Frontend Developer with over 2 years of hands-on experience in crafting responsive and user-friendly web applications. Proficient in HTML, CSS, and JavaScript, with a specialization in React. During my recent internship at EPAM Systems, I honed my skills and gained valuable insights into the end-to-end front-end development process, from designing engaging user interfaces to seamless deployment._
 
@@ -14,6 +16,7 @@ _Currently advancing my expertise at RS School, I am committed to staying at the
 
 _My strong analytical and problem-solving skills, coupled with a keen eye for detail, enable me to deliver high-quality solutions. I am highly motivated, results-oriented, and passionate about leveraging my skills to contribute meaningfully to your projects._
 
+****
 ### My Skills:
 - HTML5
 - CSS3, SASS, Bootstrap, Tailwindcss
@@ -25,7 +28,6 @@ _My strong analytical and problem-solving skills, coupled with a keen eye for de
 - Git & GutHub
 
 ****
-
 ### Code example:
 ```
 var m = +(prompt(' 1-son='));
@@ -56,3 +58,12 @@ for(let i= 0; i < 8; i ++){
 }
 ```
 ****
+### Experience
+- *Intern at EPAM System* (May - July in 2023)
+- *Frontend developer on (giftedaccauntant.uz)[https://giftedaccountant.uz/]*
+
+### Education
+- **Andijan pedagogical institute**,
+Andijan Uzbekistan — an incomplete bachelor's degree
+September 2021 - June 2026
+Studied at Mathematics and Information technology
