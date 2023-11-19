@@ -58,11 +58,11 @@ for(let i= 0; i < 8; i ++){
 }
 ```
 ****
-### Experience
+### Experience:
 - *Intern at EPAM System* (May - July in 2023)
 - *Frontend developer on [giftedaccauntant.uz](https://giftedaccountant.uz/)*
 
-### Education
+### Education:
 - Andijan pedagogical institute
 - Nodejs & Telegram bot course on [najottalim](https://najottalim.uz/)
 - Frontend course at iCode academy
