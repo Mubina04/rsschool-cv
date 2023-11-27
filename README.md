@@ -1,1 +1,1 @@
-## https://mubina04.github.io/rsschool-cv/cv
+## https://Mubina04.github.io/rsschool-cv/
