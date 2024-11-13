@@ -32,7 +32,7 @@ _My strong analytical and problem-solving skills, coupled with a keen eye for de
 - ReactJs
 - NextJs
 - Responsive UI
-- Git & GutHub
+- Git &amp; GutHub
 
 ---
 
