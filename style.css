@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    transition: .2s ease-in-out;
+    font-family: 'Poppins', sans-serif;
+    color: #61677A
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+a:hover {
+    color: #000;
+}
+
+.container {
+    margin: 3rem auto;
+    padding: 0 2rem;
+    max-width: 1280px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5rem;
+}
+
+.profile-img {
+    max-width: 6rem;
+}
+
+.profile-img img {
+    border-radius: 50%
+}
+
+header .left-side {
+    display: flex;
+    gap: 2rem;
+    align-items: center
+}
+
+.brief-myself {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.contact__item {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    font-size: 14px;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    gap: 2.8125rem;
+}
+
+aside,
+main .projects-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1.8rem;
+}
+
+.project h3 {
+    margin: 1rem 0 .7rem;
+    font-weight: normal;
+}
+
+.project {
+    margin-bottom: 2.5rem;
+}
+
+.project ul li span {
+    font-size: 13px;
+}
+
+.project ul li {
+    margin: 5px 0;
+    font-size: 15px;
+}
+
+.aside-box h3 {
+    margin-bottom: .7rem;
+}
+
+footer img {
+    max-width: 7rem;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1,
+h4,
+h2,
+h3,
+h5,
+h6 {
+    color: #424242;
+}
+
+.date {
+    font-size: 12px;
+}
+
+.date2 {
+    font-size: 14px;
+}
+
+.last-project li {
+    font-size: 13px !important;
+}
